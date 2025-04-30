@@ -1,7 +1,7 @@
 ﻿<#
     check_mem_util.ps1
 
-    Script for checking RAM sage
+    Script for checking RAM usage
 
     .SYNTAX
     	.\check_mem_util.ps1 [-WARN] [-CRIT]
